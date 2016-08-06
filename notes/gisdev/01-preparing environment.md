@@ -11,3 +11,10 @@
 5. change user password of postgres
   $sudo passwd postgres
   
+6. install gdal
+   http://trac.osgeo.org/ubuntugis/wiki/UbuntuGISRepository
+   update achive repostitory
+   $ sudo add-apt-repository ppa:ubuntugis/ppa
+   $ sudo apt-get update
+   (TBD)
+   
