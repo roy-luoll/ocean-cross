@@ -49,6 +49,26 @@
       Conic Projection: Projecting the Earth's surface onto a cone.
       
     2.4 Coordinate systems
+      projected coordinate systems vs. unprojected coordinate systems
+      
+      2.4.1 projected coordinate system
+      Makes use of projection to first convert the Earth into a 2-D Cartisian Plane and then places points onto that plane.
+      Reference Points: quete important.
+      Defining Origin and map units
+
+    2.5 Datums
+      A mathmatical model if tge Earth used to describe locations on the Earth's surface.
+      @ a set of reference points
+      @ a model of the shape on the Earth.
+      
+      3 main reference datums:
+      @ NAD 27
+      @ NAD 83
+      @ WGS 84: World Geodetic System of 1984. Shape model: Earth Gravatational Model of 1996. GPS uses this datum.
+      
+    2.6 Shapes
+    
+      
     
       
       
